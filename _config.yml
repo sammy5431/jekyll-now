@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: sammy5431
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Just like you (i think)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://media.wnyc.org/i/273/256/c/80/1/bach_bass.jpg
 
 #
 # Flags below are optional
@@ -18,11 +18,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:charlie.bach@challoners.org
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: sammy5431.github.io
+  instagram:C.T.F.B
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
