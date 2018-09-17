@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I enjoy lots of activities and often game code and do music
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I do a lot of acting as well and have now been in a movie
 
 ### Contact me
 
