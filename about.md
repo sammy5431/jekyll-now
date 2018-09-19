@@ -12,4 +12,4 @@ I do a lot of acting as well and have now been in a movie
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[charlie.bach@challoners.org](mail: charlie.bach@challoners.org)
